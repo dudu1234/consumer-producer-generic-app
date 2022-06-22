@@ -1,1 +1,1 @@
-consumer-producer-generic-app!!
+producer-consumer-generic-app!!
