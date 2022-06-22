@@ -1,4 +1,4 @@
-# Kashish Impact client
+# producer-consumer-generic-app client
 
 <p>
   <!-- iOS -->
@@ -41,8 +41,8 @@ npx create-react-native-app -t with-typescript
 
 ## Build + Deploy
 using expo.dev, build by runnig `eas build --platform android`. 
-The build manager (Team City like) can be seen at [Expo Builds](https://expo.dev/accounts/dudu-bernhard/projects/user-kashish/builds)
-Expo enable to submit from [Expo Submissions](https://expo.dev/accounts/dudu-bernhard/projects/user-kashish/submissions)
+The build manager (Team City like) can be seen at [Expo Builds](https://expo.dev/accounts/dudu-bernhard/projects/producer-consumer-generic-app/builds)
+Expo enable to submit from [Expo Submissions](https://expo.dev/accounts/dudu-bernhard/projects/producer-consumer-generic-app/submissions)
 submit can be done by running: ``
 
 ## Android deploy

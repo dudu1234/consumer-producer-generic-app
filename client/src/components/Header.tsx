@@ -12,10 +12,7 @@ export const Header = () => (
     }}
     marginT-20
   >
-    {/* <Text center bg-grey50 text80 marginL-20 marginR-20 style={{ height: 25 }}>
-      KASHISH IMPACT
-    </Text> */}
-    <Modal.TopBar title="Kashish Impact" />
+    <Modal.TopBar title="producer-consumer-generic-app" />
   </View>
 );
 ('');

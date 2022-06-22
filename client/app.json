@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "User Kashish",
+    "name": "producer-consumer-generic-app",
     "icon": "./assets/Kashish_App-04.png",
     "version": "1.0.6",
-    "slug": "user-kashish",
+    "slug": "producer-consumer-generic-app",
     "ios": {
-      "bundleIdentifier": "com.dudu-bernhard.user-kashish",
+      "bundleIdentifier": "com.dudu-bernhard.producer-consumer-generic-app",
       "buildNumber": "1.0.0"
     },
     "android": {
-      "package": "com.dudubernhard.userkashish",
-      "versionCode": 6
+      "package": "com.dudubernhard.producer-consumer-generic-app",
+      "versionCode": 1
     }
   }
 }
