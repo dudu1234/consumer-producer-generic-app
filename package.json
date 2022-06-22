@@ -1,21 +1,21 @@
 {
-  "name": "kashish-impact",
+  "name": "consumer-producer-generic-app",
   "version": "1.0.0",
   "description": "Kashish Impact team!!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "set:heroku": "3333 heroku git:remote -a kashish-impact-test33333",
+    "set:heroku": "3333 heroku git:remote -a consumer-producer-generic-app-test33333",
     "deploy:prod": "3333 git subtree push --prefix server heroku master33333"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dudu1234/kashish-impact.git"
+    "url": "git+https://github.com/dudu1234/consumer-producer-generic-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dudu1234/kashish-impact/issues"
+    "url": "https://github.com/dudu1234/consumer-producer-generic-app/issues"
   },
-  "homepage": "https://github.com/dudu1234/kashish-impact#readme"
+  "homepage": "https://github.com/dudu1234/consumer-producer-generic-app#readme"
 }
